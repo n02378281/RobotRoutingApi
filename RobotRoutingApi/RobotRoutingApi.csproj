@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\RobotRoutingApi.Application\RobotRoutingApi.Application.csproj" />
+    <ProjectReference Include="..\RobotRoutingApi.Contract\RobotRoutingApi.Contract.csproj" />
+  </ItemGroup>
+
+
+</Project>

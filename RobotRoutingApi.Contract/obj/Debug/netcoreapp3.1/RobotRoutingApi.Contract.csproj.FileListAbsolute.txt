@@ -1,0 +1,10 @@
+C:\Users\vanat\source\repos\RobotRoutingApi\RobotRoutingApi.Contract\bin\Debug\netcoreapp3.1\RobotRoutingApi.Contract.deps.json
+C:\Users\vanat\source\repos\RobotRoutingApi\RobotRoutingApi.Contract\bin\Debug\netcoreapp3.1\RobotRoutingApi.Contract.dll
+C:\Users\vanat\source\repos\RobotRoutingApi\RobotRoutingApi.Contract\bin\Debug\netcoreapp3.1\RobotRoutingApi.Contract.pdb
+C:\Users\vanat\source\repos\RobotRoutingApi\RobotRoutingApi.Contract\obj\Debug\netcoreapp3.1\RobotRoutingApi.Contract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vanat\source\repos\RobotRoutingApi\RobotRoutingApi.Contract\obj\Debug\netcoreapp3.1\RobotRoutingApi.Contract.AssemblyInfoInputs.cache
+C:\Users\vanat\source\repos\RobotRoutingApi\RobotRoutingApi.Contract\obj\Debug\netcoreapp3.1\RobotRoutingApi.Contract.AssemblyInfo.cs
+C:\Users\vanat\source\repos\RobotRoutingApi\RobotRoutingApi.Contract\obj\Debug\netcoreapp3.1\RobotRoutingApi.Contract.csproj.CoreCompileInputs.cache
+C:\Users\vanat\source\repos\RobotRoutingApi\RobotRoutingApi.Contract\obj\Debug\netcoreapp3.1\RobotRoutingApi.Contract.dll
+C:\Users\vanat\source\repos\RobotRoutingApi\RobotRoutingApi.Contract\obj\Debug\netcoreapp3.1\RobotRoutingApi.Contract.pdb
+C:\Users\vanat\source\repos\RobotRoutingApi\RobotRoutingApi.Contract\obj\Debug\netcoreapp3.1\RobotRoutingApi.Contract.csproj.AssemblyReference.cache
