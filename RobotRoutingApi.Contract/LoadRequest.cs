@@ -6,7 +6,7 @@ namespace RobotRoutingApi.Contract
 {
     public class LoadRequest
     {
-        public string loadId { get; set; } = "Empty";
+        public string loadId { get; set; } 
         public int x { get; set; }
         public int y { get; set; }
     }
