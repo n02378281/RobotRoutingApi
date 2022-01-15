@@ -40,10 +40,11 @@ curl --location --request POST 'http://localhost:5001/api/Robots/closest' \
 
 Please follow below steps:
 
-1. Open Postman
-2. Click Import
-3. Raw text
-4. Paste below curl:
+1. Open solution in visual studio and run the solution.
+2. Open Postman
+3. Click Import
+4. Raw text
+5. Paste below curl:
 curl --location --request POST 'http://localhost:5001/api/Robots/closest' \
 --header 'Content-Type: application/json' \
 --data-raw '{
@@ -52,7 +53,7 @@ curl --location --request POST 'http://localhost:5001/api/Robots/closest' \
     "y": 3
 }'
 
-5. Continue
-6. Import
-7. Make sure application is running on visual studio
-8. Send request on postman to see the result.
+6. Continue
+7. Import
+8. Make sure application is running on visual studio
+9. Send request on postman to see the result.
